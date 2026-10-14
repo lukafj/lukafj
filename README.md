@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lukafj
-- 👀 I’m interested in AI, backend, UI design and app building
+- 👀 I’m interested in AI, servers, UI design and app building
 - 🌱 I’m currently learning Android Studio, Kotlin, Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luka.f.jere@gmail.com
 - ⚡ Fun fact: I like cooking, volleyball and climbing
 
